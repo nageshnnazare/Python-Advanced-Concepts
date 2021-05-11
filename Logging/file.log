@@ -1,0 +1,7 @@
+2021-03-27 20:08:39,891 - root - DEBUG - test
+2021-03-27 20:08:59,328 - root - DEBUG - test
+2021-03-27 20:08:59,329 - root - DEBUG - Debug Message
+2021-03-27 20:08:59,329 - root - INFO - Info Message
+2021-03-27 20:08:59,329 - root - WARNING - Warning Message
+2021-03-27 20:08:59,330 - root - ERROR - Error Message
+2021-03-27 20:08:59,330 - root - CRITICAL - Critical Message
